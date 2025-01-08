@@ -3,8 +3,6 @@
 ## Background
 You are given a dataset containing e-commerce transactions and returns data. Your task is to analyze patterns in product returns and identify potential anomalies.
 
-## Assignment Tasks (Time limit: 2 hours)
-
 ### 1. Data Analysis (40%)
 - Load and clean the provided datasets
 - Perform exploratory data analysis:
