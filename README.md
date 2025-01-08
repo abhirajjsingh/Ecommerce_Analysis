@@ -17,15 +17,6 @@ You are given a dataset containing e-commerce transactions and returns data. You
 - Use any statistical method of your choice to detect outliers
 - Create a visualization showing the anomalies you detected
 
-## Deliverables
-1. Jupyter notebook containing your analysis with clear comments
-2. Brief summary (max 1 page) explaining your findings
-
-## Evaluation Criteria
-- Code quality and organization (30%)
-- Technical analysis and methodology (40%)
-- Data visualization (20%)
-- Documentation and explanation (10%)
 
 ## Dataset Description
 
