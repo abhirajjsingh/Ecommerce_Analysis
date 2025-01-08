@@ -3,7 +3,7 @@
 ## Background
 You are given a dataset containing e-commerce transactions and returns data. Your task is to analyze patterns in product returns and identify potential anomalies.
 
-### 1. Data Analysis (40%)
+### 1. Data Analysis
 - Load and clean the provided datasets
 - Perform exploratory data analysis:
   - Calculate basic statistics for returns by product category
@@ -11,7 +11,7 @@ You are given a dataset containing e-commerce transactions and returns data. You
   - Find the average time between purchase and return
 - Create at least 2 visualizations showing key patterns in the data
 
-### 2. Anomaly Detection (60%)
+### 2. Anomaly Detection
 - Identify products with unusually high return rates
 - Find customers with abnormal return behavior
 - Use any statistical method of your choice to detect outliers
